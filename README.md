@@ -18,7 +18,7 @@ My name is Tanya, and below are my GitHub profile and email address:
 1. [GitHub portfolio page](https://github.com/TanyaSilyutina)
 2. silyutinatanya@gmail.com
 
-I love adventures and exploring the ourdoors.	
+I love adventures and exploring the ourdoors :airplane:		
 
 <sup>Here is a picture of me in the mountains</sup> 
 
