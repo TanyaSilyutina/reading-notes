@@ -1,5 +1,5 @@
 # My journal for code fellows 102 
-***My reading notes for the Code Fellows course***  :octocat:
+***My reading notes for the Code Fellows course***
 
 Below are the some notes from [the Growth Mindset publication](https://www.atlassian.com/blog/inside-atlassian/growth-mindset):
 
@@ -18,7 +18,7 @@ My name is Tanya, and below are my GitHub profile and email address:
 1. [GitHub portfolio page](https://github.com/TanyaSilyutina)
 2. silyutinatanya@gmail.com
 
-I love adventures and exploring the ourdoors :mountain: :tent:	
+I love adventures and exploring the ourdoors.	
 
 <sup>Here is a picture of me in the mountains</sup> 
 
