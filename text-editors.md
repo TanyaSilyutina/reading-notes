@@ -23,4 +23,4 @@ It is **possible** to store code in Microsoft Word, but it will not assist you w
 
 ### Having learnt the difference between text editor types - which one should you use? 
 
-For coding purposes, it is best to use whether code-specific editor type (like Visual Studio Code, Sublime Text, or Atom) or an IDE tool like Visual Studio or IntelliJ IDEA. These types of code-editors will help you with code-completion, extenstions, syntax highlighting, and a wide variety of themes.
+For coding purposes, it is best to use whether code-specific editor type (like Visual Studio Code, Sublime Text, or Atom) or an IDE tool (like Visual Studio or IntelliJ IDEA). These types of code-editors will help you with code-completion, extenstions, syntax highlighting, and a wide variety of themes.
