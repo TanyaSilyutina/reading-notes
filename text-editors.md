@@ -14,7 +14,7 @@ It is **possible** to store code in Microsoft Word, but it will not assist you w
   ![image](https://user-images.githubusercontent.com/48433669/209425018-22208603-3997-43ad-a418-af380b247250.png)
   
   
-  * Code-spesific editors can save us a ton of time because they have code-compeltion features like illustrated below. 
+  * Code-spesific editors can save us a ton of time because they have code-compeltion features like illustrated above. 
 
 
 * What is an ***IDE***, then? IDe stands for ***Integrated Development Enviroment***. Basically, it is a code-specific editor that also has a _debugger_.
