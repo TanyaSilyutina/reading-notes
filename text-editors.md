@@ -6,7 +6,7 @@
 #### Which one is the best one to use? 
 
 * ***Simple text editors***, such as Microsoft Word or Notepad, are targeted towards storing and editing simple text, not necessarily code. 
-It is **possible** to store code in Microsoft Word, but it will not assist you with code completion, code-specific syntax highlightting, or any extensions that make coding easier. 
+It is **possible** to store code in Microsoft Word, but it will not assist you with code completion, code-specific syntax highlighting, or any extensions that make coding easier. 
 
 * ***Code-specific editors***, on the other hand, will help you code quicker because they have all sorts of themes, extentions, and code completion options. In the end, this is what code-specific editors are for - for coding!
   * For example, Visual Studio Code (code-specific editor) will autocomplete an entire HTML coding skeleton for you. 
@@ -18,9 +18,9 @@ It is **possible** to store code in Microsoft Word, but it will not assist you w
 
 
 * What is an ***IDE***, then? IDe stands for ***Integrated Development Environment***. Basically, it is a code-specific editor that also has a _debugger_.
-  * A debugger is the tool that helps you walk through your code whether to correct bugs or to make it more efficient. It is integrated within IDEs, but not within code editors.
+  * A debugger is a tool that helps you walk through your code whether to correct bugs or to make it more efficient. It is integrated within IDEs, but not within code editors.
 
 
 ### Having learnt the difference between text editor types - which one should you use? 
 
-For coding purposes, it is best to use whether code-specific editor type (like Visual Studio Code, Sublime Text, or Atom) or an IDE tool (like Visual Studio or IntelliJ IDEA). These types of code-editors will help you with code-completion, extenstions, syntax highlighting, and a wide variety of themes.
+For coding purposes, it is best to use whether code-specific editor type (like Visual Studio Code, Sublime Text, or Atom) or an IDE tool (like Visual Studio or IntelliJ IDEA). These types of code-editors will help you with code-completion, extensions, syntax highlighting, and a wide variety of themes.
