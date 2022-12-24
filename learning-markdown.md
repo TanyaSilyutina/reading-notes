@@ -1,9 +1,9 @@
 ## Learning Markdown Notes
 
 ### Learning Markdown is not only a great introduction to learning HTML and CSS, but it is also very useful within GitHub for creating webpages. 
- ***Github*** is a platform that stores your code and allows other coders to view and share your code. _Github_ is also a great place to showcase your coding projects to your employer.
+ ***GitHub*** is a platform that stores your code and allows other coders to view and share your code. _GitHub_ is also a great place to showcase your coding projects to your employer.
 
- One cool thing that GitHub has is called ***GitHub Pages***. You don't store code in _GitPages_ - its purpuse is to store notes. 
+ One cool thing that GitHub has is called ***GitHub Pages***. You don't store code in _GitPages_ - its purpose is to store notes. 
  The notes can describe:
 * A project we work on;
 * Competencies and skills you have as a coder; 
@@ -13,7 +13,7 @@ We use ***Markdown*** to create syntax in GitHub Pages. It looks similar to HTML
 
 ### With ***Markdown***, we can do cool things like:
 * Creating an unordered list; 
-  * Creating a nested list with *italicized*, ~~strickthrough~~, <sub> Subscript </sub> and <sup>superscript</sup> **bold text**. ***So cool!***
+  * Creating a nested list with *italicized*, ~~strikethrough~~, <sub> Subscript </sub> and <sup>superscript</sup> **bold text**. ***So cool!***
 * > Insearting a quote, even an *italicized quote*;
 * Sharing [a useful link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax);
 * [x] Creating a task;
@@ -29,4 +29,4 @@ We use ***Markdown*** to create syntax in GitHub Pages. It looks similar to HTML
 ###### Markdown has emojis incorporated in its syntax, but the problem is that they will not get properly rendered into your GitHub Webpage, and they will just show as code. For example, here is an emoji of  :shipit:  that doesn't work, so you're justing seeing the text, not the actual emoji picture. *What a bummer!* 
 
 
-#### To sum it up, ***GitHub Pages*** is an effifient tool to create a website and showcase anything you have in mind. ***Markdown*** allows us to create and edit text  within GitHub Pages, and it has a lot of useful features to organize our text. 
+#### To sum it up, ***GitHub Pages*** is an efficient tool for creating a website and showcase anything you have in mind. ***Markdown*** allows us to create and edit the text within GitHub Pages, and it has a lot of valuable features to organize our text. 
