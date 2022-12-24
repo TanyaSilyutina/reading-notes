@@ -20,3 +20,7 @@ It is **possible** to store code in Microsoft Word, but it will not assist you w
 * What is an ***IDE***, then? IDe stands for ***Integrated Development Environment***. Basically, it is a code-specific editor that also has a _debugger_.
   * A debugger is the tool that helps you walk through your code whether to correct bugs or to make it more efficient. It is integrated within IDEs, but not within code editors.
 
+
+### Having learnt the difference between text editor types - which one should you use? 
+
+For coding purposes, it is best to use whether code-specific editor type (like Visual Studio Code, Sublime Text, or Atom) or an IDE tool like Visual Studio or IntelliJ IDEA. These types of code-editors will help you with code-completion, extenstions, syntax highlighting, and a wide variety of themes.
