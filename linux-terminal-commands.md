@@ -30,16 +30,18 @@
 
 ![image](https://user-images.githubusercontent.com/48433669/209428350-ee43ac6b-c5da-4493-9b50-6c0e5c92e985.png)
 
-or 
-
-![image](https://user-images.githubusercontent.com/48433669/209428473-a1a6bdcb-97be-4831-a540-a854df9a67e7.png)
-
 
 
 
 
 ### More Examples: 
 * Paths: 
+
 ![image](https://user-images.githubusercontent.com/48433669/209428160-135eb25e-fdee-4502-965c-2fb08a34d026.png)
+
+
+* ~/(name)   ./(name) comparisons:
+
+![image](https://user-images.githubusercontent.com/48433669/209428473-a1a6bdcb-97be-4831-a540-a854df9a67e7.png)
 
 
