@@ -13,6 +13,8 @@
 
 * [Class 2 Text Editors](102/class2-text-editors.md)
 
+* [Class 3 Git Intro](102/class3-git-notes.md)
+
 My portfolio -  [GitHub portfolio page](https://github.com/TanyaSilyutina)
 
 Contact info - silyutinatanya@gmail.com
