@@ -1,25 +1,18 @@
-# My journal for code fellows 102 
-***My reading notes for the Code Fellows course***
+# My journal for code fellows 102
 
-Below are the some notes from [the Growth Mindset publication](https://www.atlassian.com/blog/inside-atlassian/growth-mindset):
+*My name is Tanya and this is my reading notes for my school. I am studying Full Stack Development with Code Fellows.* 
 
-### **"Growth mindset" in my own words:**
-* The purpose of the _Growth Mindset_ is to keep us more productive throughout the day so that we feel more accomplished; 
-* _Growth Mindset_ is the opposite of the _Fixed Mindset_, mainly because it embraces challanges and learns from feedback;
-* We can use certain techniques to pull ourveslves into 'growth-iness' and leave the fixed-mindedness.
+## Code 102 Reading Notes
+### Table of Contents:
 
-### **Growth reminders to myself:**
-* When we get stuck solving a problem, it is important to take a step back, then return to the problem with a fresh vision and start looking through it step by step. In _Growth Mindset_ we don't avoid problems, and we recognize that we need to take a break if we feel very stuck;
-* Sometimes we lose focus when we come across a difficult task. In order to avoid being distracted, we can mentally recognize that we are about to distract ourselves, and this mental acceptance can usually give us just enough inspiration to keep being focused; 
-* Use the success of others as an inspiration, not as a threat.
+* [Class 1 Personal Growth Notes](102/class1-growth-notes.md)
 
-My name is Tanya, and below are my GitHub profile and email address: 
+* [Class 1 Learning Markdown](102/class1-learning-markdown.md)
 
-1. [GitHub portfolio page](https://github.com/TanyaSilyutina)
-2. silyutinatanya@gmail.com
+* [Class 2 Terminal Commands](102/class2-linux-terminal-commands.md)
 
-I love adventures and exploring the ourdoors.		
+* [Class 2 Text Editors](102/class2-text-editors.md)
 
-<sup>Here is a picture of me in the mountains</sup> 
+My portfolio -  [GitHub portfolio page](https://github.com/TanyaSilyutina)
 
-![IMG_3540 resized](https://user-images.githubusercontent.com/48433669/208366952-04e2adf3-f4ee-4e11-ada9-f8e1c36614c5.jpg)
+Contact info - silyutinatanya@gmail.com
