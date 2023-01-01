@@ -15,10 +15,7 @@
 
 * is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
 
-**Attributes** contain extra information about the element that you don't want to appear in the actual content.
-
-![Example](image.png)
-
+**Attributes** contain extra information about the element that you don't want to appear in the actual content. Example: class attribute.
 
 ## [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
