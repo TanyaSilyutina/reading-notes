@@ -19,11 +19,11 @@
 
 * [Class 5 CSS](102/class5-CSS.md)
 
-* [Class 6 JavaScript](102/class6-js.md)
+* [Class 6 Web Pages JS](102/class6-js.md)
 
-* [Class 7](102/class7-js.md)
+* [Class 7 Programming with JS](102/class7-js.md)
 
-* [Class 8](102/class8-op-and-loops.md)
+* [Class 8 Operators and Loops](102/class8-op-and-loops.md)
 
 ## Code 201 Reading Notes
 ### Table of Contents
